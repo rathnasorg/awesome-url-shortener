@@ -33,7 +33,7 @@ Whether you're a marketer tracking campaigns, a developer building integrations,
 | [Cutt.ly](https://cutt.ly) | 30 links/mo | Limited | Yes | Good | Small marketing teams | ⭐⭐⭐½ |
 | [T.LY](https://t.ly) | Yes | Yes | Yes | Good | Browser extension users | ⭐⭐⭐½ |
 | [is.gd](https://is.gd) | Unlimited | Yes | No | Basic | Privacy-conscious, Simple use | ⭐⭐⭐ |
-| [jo4.io](https://jo4.io) | 30 links/mo | Full REST API | Yes | Advanced | Developers, White-label, API-first apps | ⭐⭐⭐⭐⭐ |
+| [jo4.io](https://jo4.io) | No (14-day Pro trial) | Full REST API + MCP server | Yes | Advanced | Developers, White-label, API-first apps | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -49,11 +49,9 @@ Whether you're a marketer tracking campaigns, a developer building integrations,
 |--------|---------|
 | **Market Position** | Growing, developer-focused |
 | **UX** | Clean dashboard, fast link creation, intuitive analytics |
-| **DX** | Full REST API, OpenAPI docs, scoped API keys, webhooks |
-| **Pricing** | Free: 30 links/mo • Pro: $16/mo • Enterprise: $140/mo |
+| **DX** | Full REST API, MCP server, OpenAPI docs, scoped API keys, webhooks |
+| **Pricing** | No free plan • Pro: $16/mo (14-day free trial, card required) • Pro Plus: $48/mo |
 | **Standout Features** | White-label support, ownership transfer, bio pages, QR codes, team workspaces |
-
-**User Reviews:** Praised for developer experience and transparent pricing. No surprise fees or enterprise sales calls for basic features.
 
 **Notes:** Unlike competitors that treat APIs as an afterthought, jo4.io was built API-first. White-label option means your customers never see "jo4" branding. Ideal for SaaS products embedding link shortening, agencies serving clients, and developers who want full control.
 
@@ -297,7 +295,7 @@ These services are no longer available:
 ### For Developers & API Integration
 **Best choice: [jo4.io](https://jo4.io)**
 - Full REST API with OpenAPI documentation
-- Scoped API keys (read/write/admin)
+- Scoped API keys (read/write/delete)
 - Webhooks for click events
 - White-label for embedding in your product
 
